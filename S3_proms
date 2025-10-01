@@ -1,0 +1,1 @@
+Pedir nombre mas el año de nacimiento donde calculamos la edad. Quiero que se clasifique por tramos de edad(<18,18-65,>65). Tambien se tiene que manejar si no se mete ningun numero todo esto en python.
