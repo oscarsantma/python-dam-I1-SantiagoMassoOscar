@@ -1,1 +1,8 @@
-Pedir nombre mas el año de nacimiento donde calculamos la edad. Quiero que se clasifique por tramos de edad(<18,18-65,>65). Tambien se tiene que manejar si no se mete ningun numero todo esto en python.
+-perfil
+Pront: Pedir nombre mas el año de nacimiento donde calculamos la edad. Quiero que se clasifique por tramos de edad(<18,18-65,>65). 
+Tambien se tiene que manejar si no se mete ningun numero, todo esto en python.
+
+-eco_io
+Pront: Necesito pedir 3 numeros por pantalla. De esos numeros tiene que mostrar suma,media y mayor.
+-Adaptación libre
+Pront: Quiro añadir que el resultado que de la media te diga si estas aprobado o suspenso desde 0 a 10 y si te pasas de diez que salga sobresaliente.

@@ -22,3 +22,4 @@ else:
     edad = obtener_edad(anio_nacimiento)
     tramo = clasificar_edad(edad)
     print(f"{nombre}, tienes {edad} años. Clasificación: {tramo}")
+    
