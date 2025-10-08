@@ -1,0 +1,17 @@
+S4 (08/10): 
+
+lista_numeros.py: 
+Tengo que hacer un código en Python que pida una lista de números que se separe por comas, también necesito que los conviertas a float con controles de errores y muestres la suma, la media, el máximo y los duplicados. Que es esta linea numeros = [float(x.strip()) for x in entrada.split(",")]. Cambiamela de forma mas sencilla.
+
+temperaturas.py:
+Ahora necesito otro código que tenga estas prestaciones conversor de temperaturas de grados a kelvin o a farenheit. Ten encuenta que seguimos en python.
+
+cadenas.py: 
+Gracias. Ahora necesito un programa que reciba una cadena y cuente las vocales que tiene, las consonantes, las mayúsculas y el número de caracteres. este código es otra vez Python intenta que no se complejo.
+Estas lineas son necesarias que se instancian en Python? 
+vocales = "aeiouAEIOU" contador_vocales = 0 
+contador_consonantes = 0 
+contador_mayusculas = 0 total_caracteres = len(texto)
+
+primo.py: 
+Perfecto. Y por ultimo necesito un código que es mas simple que es para que recibas un numero y te diga si es un numero primo o si no lo es. Recuerda que estamos en python.
