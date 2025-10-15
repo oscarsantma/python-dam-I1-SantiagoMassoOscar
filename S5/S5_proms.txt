@@ -1,0 +1,3 @@
+Necesito un codigo de las siguientes características y que sea muy sencillo, como si estuviera empezando en python.(Introduzco el ejemplo de la actividad)
+Utilizo normalmente esto if __name__ == "__main__":
+    main()
